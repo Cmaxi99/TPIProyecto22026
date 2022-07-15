@@ -97,7 +97,7 @@
 									    style="width:25px;height:25px">
 									</lord-icon>
 									</a></td>
-									<td class="text-center"><a href=<%=rutaE%>> <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+									<td class="text-center"><a onclick=cambia_enlace() id="eliminar" href=<%=rutaE%>> <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
 									<lord-icon
 									    src="https://cdn.lordicon.com/dovoajyj.json"
 									    trigger="hover"
@@ -105,15 +105,24 @@
 									</lord-icon> 
 									</a></td>
 									</tr>
-			
-					<% 
+					<% 				
 								}
 						}
 					%>
-	
+				
 					</table>
+					<script>
+							function cambia_enlace(){
+							var elemento = document.getElementById("eliminar");
+							if(confirm('Desea continuar?')){}
+							else{
+								  elemento.href = "SociosController";
+								}
+							}
+					</script>
 			</div>
 	</div>
+									
 </section>
 <footer>
 	<div class="container mt-2 text-center">

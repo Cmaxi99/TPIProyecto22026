@@ -90,7 +90,7 @@
 							document.getElementById("ValorSegunCheck").innerHTML = 'Inactivo';
 						}
 					}
-	
+			
 				</script>
 			</div>
 			

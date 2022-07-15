@@ -6620,7 +6620,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:27:02.248
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-!SESSION 2022-07-15 15:40:04.248 -----------------------------------------------
+!SESSION 2022-07-15 16:00:22.928 -----------------------------------------------
 eclipse.buildId=4.7.3.M20180330-0640
 java.version=1.8.0-332
 java.vendor=OpenLogic-OpenJDK
@@ -6628,14 +6628,20 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
-!ENTRY org.eclipse.egit.ui 2 0 2022-07-15 15:40:25.787
+!ENTRY org.eclipse.egit.ui 2 0 2022-07-15 16:00:36.837
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\canto'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2022-07-15 15:40:28.058
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:00:38.622
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:00:38.624
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2022-07-15 16:00:39.235
 !MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $. ; version: 2.0.7.v20170906-1327
 !STACK 0
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
@@ -6654,44 +6660,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:213)
 	... 9 more
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:40:29.870
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:04:34.390
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:40:29.872
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:04:34.391
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:41:21.617
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:04:37.866
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:41:21.618
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:04:37.867
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:43:59.146
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:05:57.001
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:43:59.148
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:05:57.002
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:48:52.289
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:08:12.301
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:48:52.290
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:08:12.302
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:49:23.156
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:10:04.340
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:49:23.157
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:10:04.341
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:49:45.606
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:10:39.743
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:49:45.607
-!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:50:04.604
-!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 15:50:04.605
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-07-15 16:10:39.753
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -18,7 +18,7 @@ public class Conexion
 			try
 			{
 			Class.forName(driver);
-			 conexion=DriverManager.getConnection("jdbc:mysql://localhost:3306/proyecto22026","root","");
+			 conexion=DriverManager.getConnection("jdbc:mysql://localhost:3306/proyecto22026","root","Cmaximiliano99");
 			}
 			catch(SQLException e)
 			{

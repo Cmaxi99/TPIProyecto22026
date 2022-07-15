@@ -31,7 +31,7 @@
 	<h2 class="text-center mb-5 mt-2">Listado de Socios del GYM</h2>
 	<div class="container d-flex mt-2 mb-5">
 		<div class="row d-flex justify-content-start">
-			<form method="post" class="row">
+			<form method="post" class="row" action="SociosController?accion" method="post">
 				<fieldset class="d-flex justify-content-start p-0">
 					<label class="me-2 fs-3" id="filtro" for="filtroEstados">Filtro:</label>
 					<select class="border-0 ms-2 p-2" id="selectEstados" name="filtroEstado" id="filtroEstados">
@@ -112,13 +112,15 @@
 				
 					</table>
 					<script>
-							function cambia_enlace(){
-							var elemento = document.getElementById("eliminar");
-							if(confirm('Desea continuar?')){}
-							else{
-								  elemento.href = "SociosController";
-								}
-							}
+										function cambia_enlace(){
+											  var elemento = document.getElementById("eliminar");
+											  if(confirm('Desea continuar?')){
+												  
+											  }
+											  else{
+												  elemento.href = "SociosController";
+											  }
+										}
 					</script>
 			</div>
 	</div>

@@ -65,7 +65,6 @@ public class SociosController extends HttpServlet {
 			if(request.getParameter("estado")!= null) {estado = Integer.parseInt(request.getParameter("estado"));};
 			Socios socio=new Socios(id,nombre,apellido,dni,mail,fecha,estado,"");
 			socioDAO.actualizarSocio(socio);		
-			
 			dispatcher=request.getRequestDispatcher("Vistas/socios.jsp");			
 		}
 		else if(accion.equals("eliminar"))

@@ -3290,32 +3290,32 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2022-07-15 15:27:02,247 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
 2022-07-15 15:27:02,248 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-07-15 15:27:02,248 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:40:25,228 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2022-07-15 15:40:29,869 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:40:29,870 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:40:29,872 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:40:29,872 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:41:21,617 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:41:21,617 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:41:21,618 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:41:21,618 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:43:59,146 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:43:59,147 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:43:59,147 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:43:59,148 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:48:52,289 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:48:52,289 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:48:52,289 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:48:52,290 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:49:23,156 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:49:23,156 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:49:23,157 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:49:23,158 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:49:45,605 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:49:45,606 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:49:45,606 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:49:45,607 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
-2022-07-15 15:50:04,604 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:50:04,604 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\main\resources
-2022-07-15 15:50:04,605 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-07-15 15:50:04,605 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\TPI\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:00:36,511 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-15 16:00:38,621 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:00:38,623 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:00:38,624 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:00:38,625 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:04:34,390 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:04:34,391 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:04:34,391 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:04:34,392 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:04:37,865 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:04:37,866 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:04:37,867 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:04:37,867 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:05:57,001 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:05:57,001 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:05:57,002 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:05:57,003 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:08:12,301 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:08:12,301 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:08:12,302 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:08:12,302 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:10:04,340 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:10:04,340 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:10:04,341 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:10:04,342 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources
+2022-07-15 16:10:39,743 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:10:39,743 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\main\resources
+2022-07-15 16:10:39,752 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-15 16:10:39,753 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\Eclipse\Proyectos\Proyecto3_22026\Proyecto22026\src\test\resources

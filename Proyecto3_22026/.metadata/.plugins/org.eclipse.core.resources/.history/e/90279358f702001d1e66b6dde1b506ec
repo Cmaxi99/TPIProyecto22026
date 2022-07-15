@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+*{
+	box-sizing: border-box;
+}
+
+
+body{
+	background-image: url("../img/wave-haikei.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+    padding: 0;
+}
+
+html{
+    max-width: 100vw;
+    margin: auto;
+}
+
+fieldset{
+    width:max-content; 
+}
